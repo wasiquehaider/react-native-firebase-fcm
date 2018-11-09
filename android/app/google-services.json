@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "351884259748",
+    "firebase_url": "https://image-slider-updated.firebaseio.com",
+    "project_id": "image-slider-updated",
+    "storage_bucket": "image-slider-updated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351884259748:android:c98dacf5ba48f992",
+        "android_client_info": {
+          "package_name": "com.fcmnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351884259748-akfbah4rt2gn7qt0mk0h8d2s3bmpqhlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEcKb3seLrLKgnU9t7y7DcQ8TIkgorqHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
